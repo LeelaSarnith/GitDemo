@@ -13,6 +13,7 @@ public class locationClass {
 		public void setLat(double lat) {
 			this.lat = lat;
 			System.out.println(lat);
+			System.out.println("Git");
 		}
 
 		public double getlng() {
@@ -22,6 +23,7 @@ public class locationClass {
 		public void setlng(double lng) {
 			this.lng = lng;
 			System.out.println(lng);
+			System.out.println("Git lng");
 		}
 
 		private double lng;
