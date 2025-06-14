@@ -13,6 +13,8 @@ public class locationClass {
 
 		public void setLet(double let) {
 			this.let = let;
+			System.out.println(let);
+			System.out.println("Git");
 		}
 
 		public double getLat() {
